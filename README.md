@@ -1,5 +1,5 @@
 # MatPlotLib-challenge
-Module 5 MatPlotLib challenge of the UCB Data Analytics &amp; Vizualization Bootcamp. The Jypyter notebook pymaceuticals.ipynb in the Pymaceuticals folder generates tables and charts needed for the technical report of a clinical study for potential treatments for squamous cell carcinoma (SCC), commonly occuring form of skin cancer. The data from the clinical study is in the Data folder.
+Module 5 MatPlotLib challenge of the UCB Data Analytics &amp; Vizualization Bootcamp. The Jypyter notebook pymaceuticals.ipynb in the Pymaceuticals folder generates tables and charts needed for the technical report of a clinical study for potential treatments for squamous cell carcinoma (SCC), commonly occuring form of skin cancer. The data from the clinical study is in the data folder.
 
 ### Analysis
 - A total of 248 mice were analyzed, 51% male and 49% female.
